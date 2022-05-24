@@ -1,6 +1,6 @@
 ### About Me
 
-* Im a full stack trainee
+* Im a full stack java developer
 
 ### Hobbies
 
