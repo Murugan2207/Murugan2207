@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Murugan2207/Murugan2207/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="Your Name's Profile Picture" width="1000">
+  <img src="https://github.com/Murugan2207/Murugan2207/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="DP Banner" width="1000">
 </p>
 
 <p align="center">
@@ -43,9 +43,9 @@
   <img src="https://img.shields.io/badge/Frontend-ReactJS-61DAFB?style=flat-square&logo=react" alt="ReactJS">
   <img src="https://img.shields.io/badge/Version%20Control-Git-FF4500?style=flat-square&logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Build%20Tools-Webpack%20%7C%20Babel-8DD6F9?style=flat-square" alt="Webpack, Babel">
-  <img src="https://img.shields.io/badge/API%20Integration-RESTful%20APIs%20%7C%20GraphQL-FF69B4?style=flat-square" alt="RESTful APIs">
+  <img src="https://img.shields.io/badge/API%20Integration-RESTful%20APIs%20%7C%20-FF69B4?style=flat-square" alt="RESTful APIs">
   <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Enzyme-15A9D6?style=flat-square" alt="Jest, Enzyme">
-  <img src="https://img.shields.io/badge/Code Quality-%20%7C%20Postman-00C7B7?style=flat-square" alt="SonarQube">
+  <img src="https://img.shields.io/badge/Code Quality-%20%7C%20SonarQube-00C7B7?style=flat-square" alt="SonarQube">
 </p>
 
 <h2 align="center">Let's Connect</h2>
