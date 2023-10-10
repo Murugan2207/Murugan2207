@@ -2,6 +2,10 @@
   <img src="https://github.com/Murugan2207/Murugan2207/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="Your Name's Profile Picture" width="1000">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Murugan2207/Murugan2207/blob/main/react.gif" alt="React Gif" width="100">
+</p>
+
 
 <h1 align="center">👋 Hello, I'm Murugan </h1>
 
@@ -17,15 +21,16 @@
 <p align="center">A passionate ReactJS Web Developer on a mission to craft delightful digital experiences. 🚀</p>
 
 <h2 align="center">About Me</h2>
-
-<p align="center">
-  💻 I specialize in crafting interactive and responsive web applications using <strong>ReactJS</strong>.
+  <p align="center">
+  <img src="https://github.com/Murugan2207/Murugan2207/blob/main/coding.gif" alt="Coding img" width="200">
 </p>
 <p align="center">
-  🌟 My goal is to transform creative ideas into pixel-perfect, user-friendly interfaces.
+     👨‍💻 Full-time code wrangler, part-time wizard. Turning caffeine into code since forever. ☕💻
 </p>
 <p align="center">
-  📚 I'm constantly learning and exploring new technologies to stay at the forefront of web development.
+    🌍 Exploring the digital wilderness one bug at a time, because someone's got to do it! 🐜🌐
+<p align="center">
+  🧙‍♂️ I don't always write code, but when I do, it's ReactJS magic – because why not? ✨
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -45,7 +50,7 @@
 
 <h2 align="center">Let's Connect</h2>
 
-<p align="center">
+<p align="center" style="font-family: 'Verdana', sans-serif;">
   I'm always open to collaborating on exciting projects, sharing knowledge, or just having a friendly chat about web development. Feel free to reach out to me:
 </p>
 
