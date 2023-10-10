@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Your Name's Profile Picture" width="100">
+  <img src="https://github.com/Murugan2207/Murugan2207/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="Your Name's Profile Picture" width="1000">
 </p>
 
 
