@@ -6,10 +6,10 @@
 <h1 align="center">👋 Hello, I'm Murugan </h1>
 
 <p align="center">
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue" alt="Portfolio">
+  <a href="www.linkedin.com/in/murugan-venkatesh">
+    <img src="https://img.shields.io/badge/Linkedin-Visit%20My%20Website-blue" alt="Linkedin">
   </a>
-  <a href="https://twitter.com/yourtwitter">
+  <a href="https://twitter.com/yourtwitter](https://twitter.com/vickyjoe227?t=WK7vj0lniKaBYyFZ9CbGzQ&s=09">
     <img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" alt="Twitter">
   </a>
 </p>
@@ -36,12 +36,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-ReactJS-61DAFB?style=flat-square&logo=react" alt="ReactJS">
-  <img src="https://img.shields.io/badge/UI%20Frameworks-Material%2DUI%20%7C%20Ant%20Design-0081CB?style=flat-square" alt="Material-UI, Ant Design">
   <img src="https://img.shields.io/badge/Version%20Control-Git-FF4500?style=flat-square&logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Build%20Tools-Webpack%20%7C%20Babel-8DD6F9?style=flat-square" alt="Webpack, Babel">
-  <img src="https://img.shields.io/badge/API%20Integration-RESTful%20APIs%20%7C%20GraphQL-FF69B4?style=flat-square" alt="RESTful APIs, GraphQL">
+  <img src="https://img.shields.io/badge/API%20Integration-RESTful%20APIs%20%7C%20GraphQL-FF69B4?style=flat-square" alt="RESTful APIs">
   <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Enzyme-15A9D6?style=flat-square" alt="Jest, Enzyme">
-  <img src="https://img.shields.io/badge/Deployment-Heroku%20%7C%20Netlify-00C7B7?style=flat-square" alt="Heroku, Netlify">
+  <img src="https://img.shields.io/badge/Code Quality-%20%7C%20Postman-00C7B7?style=flat-square" alt="SonarQube">
 </p>
 
 <h2 align="center">Let's Connect</h2>
@@ -51,7 +50,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:youremail@example.com">📧 Email: Your Email</a>
+  <a href="mailto:youremail@example.com">📧 Email: murugan.venkat227@gmail.com</a>
 </p>
 
 <p align="center">Let's build the future of the web together! 🌐✨</p>
