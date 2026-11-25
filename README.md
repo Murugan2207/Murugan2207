@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Murugan2207/Murugan2207/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="DP Banner" width="1000">
 </p>
 
 <p align="center">
