@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Murugan Venkatesh 👋</h1>
+<h1 align="center">Hi there, I'm Murugan Venkatesan 👋</h1>
 
 <h3 align="center">
   Software Engineer | Frontend Specialist | Full-Stack Developer | Agentic AI
@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/murugan-venkatesh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://iammurugan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-181717?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:murugan.venkat227@gmail.com">
