@@ -172,7 +172,7 @@ I'm always interested in meaningful engineering challenges, knowledge sharing, a
   <a href="https://linkedin.com/in/murugan-venkatesh">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://iammurugan.vercel.app/">
     <img src="https://img.shields.io/badge/Beyond_My_Resume-Explore_Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
